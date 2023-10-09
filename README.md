@@ -1,5 +1,9 @@
 # A02
 
+## Directions on using Webstorm
+1. The first step
+
+2. Next
 
 ## Glossary
 * **Branch:**
