@@ -1,6 +1,6 @@
 # A02
 
-## Directions on using Webstorm
+## Tutorial on using Webstorm with Git and GitHub
 1. The first step
 
 2. Next
