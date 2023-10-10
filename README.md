@@ -6,15 +6,15 @@
 2. Next
 
 ## Glossary
-* **Branch:**
+* **Branch:** 
 * **Clone:**
-* **Commit:**
+* **Commit:** A confirmation of changes made to files in a repository
 * **Fetch:**
-* **GIT:**
-* **Github:**
-* **Merge:**
-* **Merge Conflict:**
-* **Push:**
+* **GIT:** A program or protocol that is used to track file changes
+* **Github:** A cloud platform that hosts a remote git repository
+* **Merge:** 
+* **Merge Conflict:** 
+* **Push:** 
 * **Pull:**
 * **Remote:**
 * **Repository:**
