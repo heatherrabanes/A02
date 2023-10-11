@@ -1,7 +1,7 @@
 # A02
 
 ## Tutorial on using Webstorm with Git and GitHub
-1. The first step
+1. The first step is to download and install Git and your IDE onto your computer. The latest version of Git can be found on https://git-scm.com/downloads. We use WebStorm as our IDE, which the download is found on https://www.jetbrains.com/student/.
 
 2. Next
 
