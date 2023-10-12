@@ -21,6 +21,9 @@
 
 ## References
 “Git Tutorial.” W3Schools, Refnes Data, www.w3schools.com/git/default.asp. Accessed 11 Oct. 2023. 
+
 Hendela, Arthur H. “Additional Instructions on Creating a Git and Github Repository.” New Jersey Institute of Technology, 15 Feb. 2020. 
-Hendela, Arthur H. “Introduction to GitHub and Webstorm.” Canvas. Newark, New Jersey Institute of Technology, https://njit.instructure.com/courses/30780/files/5214587?module_item_id=1138121. Accessed 11 Oct. 2023. 
-Toegel, Matthew. “Git.” New Jersey Institute of Technology, New Jersey Institute of Technology. Accessed 11 Oct. 2023. 
+
+Hendela, Arthur H. “Introduction to GitHub and Webstorm.” Canvas. New Jersey Institute of Technology, https://njit.instructure.com/courses/30780/files/5214587?module_item_id=1138121. Accessed 11 Oct. 2023. 
+
+Toegel, Matthew. “Git.” New Jersey Institute of Technology. Accessed 11 Oct. 2023. 
