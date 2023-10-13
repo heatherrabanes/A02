@@ -3,7 +3,15 @@
 ## Tutorial on using Webstorm with Git and GitHub
 1. The first step is to download and install Git and your IDE onto your computer. The latest version of Git can be found on https://git-scm.com/downloads. We use WebStorm as our IDE, which the download is found on https://www.jetbrains.com/student/.
 
-2. Next
+2. If you do not already have an account on GitHub, the next step is to create and set one up. This can be done on https://github.com/join.
+
+3. Next, launch your IDE, WebStorm. Open the settings and connect Git with Webstorm. To do this, access the system preferences, which can be done by pressing (Ctrl+Alt+S). Select Version Control>Git and enter the file path to your Git installation. 
+
+4. Now that Git is set up, create a new project on Webstorm, which can be done by selecting that option in the welcome screen of Webstorm.
+
+5. We can create a new file to add to our repository. Make some edits to the file
+
+6. 
 
 ## Glossary
 * **Branch:** A version of a Git repository
