@@ -5,13 +5,18 @@
 
 2. If you do not already have an account on GitHub, the next step is to create and set one up. This can be done on https://github.com/join.
 
-3. Next, launch your IDE, WebStorm. Open the settings and connect Git with Webstorm. To do this, access the system preferences, which can be done by pressing (Ctrl+Alt+S). Select Version Control>Git and enter the file path to your Git installation. 
+3. Next, launch your IDE, WebStorm. Open the settings and connect GitHub with Webstorm. To do this, access the system preferences, which can be done by pressing (Ctrl+Alt+S). Select Version Control>Git and enter the file path to your Git installation. You may also need to go to Version Control>GitHub and link your GitHub account to your Webstorm project.
 
-4. Now that Git is set up, create a new project on Webstorm, which can be done by selecting that option in the welcome screen of Webstorm.
+4. Now that GitHub is set up, create a new project on Webstorm, which can be done by selecting that option in the welcome screen of Webstorm. We can create a new file to add to our project. Make some edits to the file and save them.
 
-5. We can create a new file to add to our repository. Make some edits to the file
+6. Now that you have a working project to use for a repository, we can create a remote repository on GitHub. On the menu, go to Git>GitHub>Share Project to GitHub. It will ask you to enter a name for your GitHub repository and remote branch. We can commit changes by clicking the commit button on the side toolbar or going to Git>Commit on the menu. Add a commit message and click 'Commit and push'. If you are successful, you will be able to find your repository on GitHub. 
 
-6. 
+7. We can also create and edit files on our remote repository on GitHub. One such file is a README markdown file. Once you have created and edited a file, you can commit the changes.
+
+8. To update the changes you made on your remote GitHub repository to your local repository on your computer, go to Git>Pull on the Webstorm menu. Now your local repository matches your remote repository.
+
+9. Now you can continue to push and pull your commits to and from your local and remote repositoties as your work on your projects.
+ 
 
 ## Glossary
 * **Branch:** A version of a Git repository
